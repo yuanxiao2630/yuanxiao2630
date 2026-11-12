@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="384" viewBox="0 0 1200 384" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">mango2630 — Small tools. Better flow.</title>
+  <desc id="desc">A dark green personal banner with a mango yellow note and small interface illustrations.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12241D"/>
+      <stop offset="1" stop-color="#0D1713"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1060 60) rotate(128) scale(440 340)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B9D88D" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#B9D88D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A9BEAF" fill-opacity=".1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="384" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="384" rx="24" fill="url(#glow)"/>
+  <rect x="704" y="24" width="472" height="336" rx="16" fill="url(#dots)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <path d="M57 49h14l7 12 7-12h14" stroke="#F4C66A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="112" y="58" fill="#A6B7AA" font-size="12" font-weight="500" letter-spacing="2">A PERSONAL TOOLBOX</text>
+    <text x="56" y="119" fill="#B9D88D" font-size="13" font-weight="600" letter-spacing="2.3">SMALL TOOLS. BETTER FLOW.</text>
+    <text x="51" y="220" fill="#F3F1E9" font-size="96" font-weight="700" letter-spacing="-5">mango2630</text>
+    <text x="56" y="266" fill="#A6B7AA" font-size="21" letter-spacing="-.3">From everyday friction to useful little things.</text>
+
+    <g font-size="11" font-weight="600" letter-spacing="1.4">
+      <rect x="56" y="307" width="112" height="30" rx="15" fill="#B9D88D" fill-opacity=".09" stroke="#B9D88D" stroke-opacity=".22"/>
+      <text x="76" y="327" fill="#C2D9AA">FRONTEND</text>
+      <rect x="180" y="307" width="84" height="30" rx="15" fill="#B9D88D" fill-opacity=".09" stroke="#B9D88D" stroke-opacity=".22"/>
+      <text x="200" y="327" fill="#C2D9AA">macOS</text>
+      <rect x="276" y="307" width="114" height="30" rx="15" fill="#B9D88D" fill-opacity=".09" stroke="#B9D88D" stroke-opacity=".22"/>
+      <text x="295" y="327" fill="#C2D9AA">AI PLUGINS</text>
+    </g>
+
+    <path d="M740 60V326" stroke="#6E8C77" stroke-opacity=".2"/>
+    <g transform="rotate(-9 862 231)">
+      <rect x="790" y="146" width="150" height="164" rx="17" fill="#24372B" stroke="#688662" stroke-opacity=".6"/>
+      <path d="M813 177h39m-39 14h64m-64 14h50" stroke="#82A477" stroke-opacity=".7" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="821" cy="266" r="15" fill="#B9D88D" fill-opacity=".12"/>
+      <path d="m815 266 4 4 8-8" stroke="#B9D88D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <rect x="828" y="76" width="304" height="213" rx="17" fill="#1A2B22" stroke="#4A6553"/>
+    <path d="M829 112h302" stroke="#4A6553"/>
+    <circle cx="846" cy="94" r="3" fill="#F4C66A"/>
+    <circle cx="859" cy="94" r="3" fill="#A2BA8F"/>
+    <circle cx="872" cy="94" r="3" fill="#607D66"/>
+    <text x="1012" y="98" fill="#8BA590" font-size="10" letter-spacing="1.4">TOOLBOX / 01</text>
+    <text x="850" y="153" fill="#E3E9DE" font-size="19" font-weight="500">a little less friction.</text>
+    <rect x="850" y="174" width="212" height="7" rx="3.5" fill="#536E54"/>
+    <rect x="850" y="193" width="155" height="7" rx="3.5" fill="#3B5540"/>
+    <rect x="850" y="231" width="70" height="28" rx="14" fill="#B9D88D" fill-opacity=".13"/>
+    <path d="M869 245h25m-5-5 5 5-5 5" stroke="#C1DCA7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g transform="rotate(6 1040 281)">
+      <rect x="934" y="225" width="214" height="113" rx="15" fill="#F4C66A"/>
+      <circle cx="1118" cy="245" r="3" fill="#8C6D32" fill-opacity=".65"/>
+      <text x="952" y="255" fill="#66552B" font-size="10" font-weight="700" letter-spacing="1.3">ONE IDEA AT A TIME</text>
+      <path d="M954 278h13m-6.5-6.5v13" stroke="#233324" stroke-width="2.2" stroke-linecap="round"/>
+      <text x="952" y="310" fill="#233324" font-size="17" font-weight="600" letter-spacing="-.2">make → use → refine</text>
+    </g>
+  </g>
+</svg>
