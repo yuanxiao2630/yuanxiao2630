@@ -6,11 +6,9 @@
 
 | 方向 | 常用语言与工具 |
 | :--- | :--- |
-| Web 与浏览器扩展 | JavaScript · TypeScript · HTML · CSS |
+| Web 与浏览器扩展 | JavaScript · TypeScript · HTML · CSS · React · Vue|
 | macOS 原生工具 | Swift · AppKit |
 | AI 工作流与插件 | DeepSeek Harness · TypeScript |
-
-从实际使用出发，先把问题解决，再慢慢打磨细节。发现问题或有新想法，欢迎在对应项目的 **Issues** 里交流。
 
 ---
 
