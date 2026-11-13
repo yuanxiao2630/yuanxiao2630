@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="384" viewBox="0 0 1200 384" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">mango2630 — Small tools. Better flow.</title>
+  <title id="title">yuanxiao2630 — Small tools. Better flow.</title>
   <desc id="desc">A dark green personal banner with a mango yellow note and small interface illustrations.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="384" gradientUnits="userSpaceOnUse">
@@ -22,7 +22,7 @@
     <path d="M57 49h14l7 12 7-12h14" stroke="#F4C66A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="112" y="58" fill="#A6B7AA" font-size="12" font-weight="500" letter-spacing="2">A PERSONAL TOOLBOX</text>
     <text x="56" y="119" fill="#B9D88D" font-size="13" font-weight="600" letter-spacing="2.3">SMALL TOOLS. BETTER FLOW.</text>
-    <text x="51" y="220" fill="#F3F1E9" font-size="96" font-weight="700" letter-spacing="-5">mango2630</text>
+    <text x="51" y="220" fill="#F3F1E9" font-size="96" font-weight="700" letter-spacing="-5">yuanxiao2630</text>
     <text x="56" y="266" fill="#A6B7AA" font-size="21" letter-spacing="-.3">From everyday friction to useful little things.</text>
 
     <g font-size="11" font-weight="600" letter-spacing="1.4">
