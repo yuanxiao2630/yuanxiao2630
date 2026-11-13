@@ -14,5 +14,4 @@
 
 <p align="center">
   <strong>理性干不过惯性。</strong><br />
-  <sub>让好的习惯，更容易发生。</sub>
 </p>
