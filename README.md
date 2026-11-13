@@ -11,7 +11,3 @@
 | AI 工作流与插件 | DeepSeek Harness · TypeScript |
 
 ---
-
-<p align="center">
-  <strong>理性干不过惯性。</strong><br />
-</p>
